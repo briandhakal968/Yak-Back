@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "peak-1",
+    "title": "Island Peak Climbing",
+    "slug": "island-peak-climbing",
+    "region": "Everest",
+    "durationDays": 19,
+    "priceUsd": 2600,
+    "image": "/storage/media/images/hero-home.jpg",
+    "shortDescription": "Climb one of Nepal's most popular trekking peaks (6,189 m) with stunning views of Everest, Lhotse, and Ama Dablam.",
+    "fullDescription": "Are you eager to climb your first six-thousand-meter peak? If yes, our 19-day Island Peak expedition with Everest Base Camp trek is the ideal trip for you. This expedition will take you to the classic Everest region, where you will walk beneath the world's highest mountain at Everest Base Camp and head on to climb the Island Peak. At the elevation of 6189 m, Island Peak is tucked away in the Chhukung valley between the Lhotse and Nuptse South Walls to the north and Baruntse to the south. When viewed from Dingboche, it looks like a tiny island on an ice ocean. Because of this view, it was named Island Peak by Eric Shipton and his team in 1953. In 1983, the mountain was given the name Imja Tse. However, climbers more commonly refer to it as Island Peak. The mountain's first ascent was made in 1956 by Hans-Rudolf Von Gunten, a member of a Swiss expedition preparing to climb Everest and the Lhotse Mountains. Island Peak is one of the trekking peaks of the Everest region. But do not let this classification term mislead you. Island Peak climbing is not just a high-altitude trekking activity, although it is relatively easy among the hundreds of much more difficult and larger mountains in the Himalayas. Glacier travels are an activity that includes steep snowy ice stages and ridge crossings. It is an excellent choice to taste real mountaineering and get your first climbing experience in the Himalayas. In our 19-day Island Peak expedition with Everest Base Camp trek, we will introduce you to real mountaineering and Himalayan climbing culture, which we have prepared considering all the details of our experience in the region and Island Peak. If you are ready, we are waiting for you in the first league of mountaineering!",
+    "highlights": [
+      "Admire the beauty of the world's highest peaks, including Everest.",
+      "Conquer Mount Kala Patthar, the most beautiful place to watch the sunrise on Mount Everest.",
+      "Reach the Everest Base Camp.",
+      "Island Peak offers breathtaking panoramic views of some of the world's highest mountains, including Mount Everest, Lhotse, Nuptse, and Makalu.",
+      "Enjoy a sense of achievement and awe-inspiring views from the summit of Island Peak, surrounded by towering Himalayan peaks."
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kathmandu Arrival Day",
+        "description": "Today is your first day in Nepal. We will drive you to the hotel upon arrival in the Kathmandu Airport. You can relax in your room; the afternoon may be at your disposal, depending on your arrival time. You can freely roam around and orient with the Nepalese charm and atmosphere.",
+        "activities": [
+          "Airport pickup",
+          "Hotel transfer",
+          "Explore Kathmandu"
+        ],
+        "sleepingAltitude": "1,350m",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 2,
+        "title": "Final preparation day",
+        "description": "Ensure all your trekking and climbing gear is checked and ready before your adventure begins. Kathmandu offers plenty of outdoor gear shops, with everything from affordable local brands to world-renowned international outdoor brands.",
+        "activities": [
+          "Gear check",
+          "Last-minute shopping",
+          "Trip preparation"
+        ],
+        "sleepingAltitude": "1,350m",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 3,
+        "title": "Fly to Lukla trek to Phakding",
+        "description": "We will head to Kathmandu Airport early in the morning for our fly to Lukla, a small mountain town located on the foot of the Himalayas. If the weather is clear, the flight offers magnificent views of the Himalayas. After our arrival in Lukla, we will meet with our local guides and porters who will accompany us throughout the journey. After breakfast at Lukla, we begin by following the Dudh Koshi river, crossing suspension bridges and descend towards Thado Koshi, a walk of about 2 hours. From there, we continue with a gradual uphill trail to Phakding, where we will stay overnight.",
+        "activities": [
+          "Scenic flight to Lukla",
+          "Trek to Phakding",
+          "Cross suspension bridges"
+        ],
+        "trailTime": "4 Hours",
+        "sleepingAltitude": "2,610m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 4,
+        "title": "Trek to Namche",
+        "description": "Today, we follow the trail towards the mountain town of Namche Bazaar via the villages of Benkar, Monjo, and Jorsalle. En route, we enter the Sagarmatha National Park check point. Namche Bazaar, the main gateway to Everest Base Camp and the surrounding peaks, has developed into a vibrant mountain town with comfortable guesthouses and services. From Namche, enjoy breathtaking views of Thamserku (6,608 m), Kangtega (6,685 m), Ama Dablam (6,856 m), and Mount Everest (8,848 m).",
+        "activities": [
+          "Enter Sagarmatha National Park",
+          "Trek to Namche Bazaar",
+          "Mountain views"
+        ],
+        "trailTime": "6 Hours",
+        "sleepingAltitude": "3,400m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 5,
+        "title": "Acclimatization Day",
+        "description": "Namche Bazaar is an ideal place for acclimatization and for immersing yourself in the surrounding Himalayan environment. On this day, we can hike up to the Everest View Hotel (3,880 m), which offers stunning panoramas of Everest, Lhotse, Ama Dablam, and Nuptse. After descending, we may explore the Sherpa Culture Museum or take time to wander through the lively market of Namche Bazaar.",
+        "activities": [
+          "Hike to Everest View Hotel",
+          "Sherpa Culture Museum",
+          "Explore Namche market"
+        ],
+        "trailTime": "6 Hours",
+        "sleepingAltitude": "3,400m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 6,
+        "title": "Trek to Tengboche",
+        "description": "The trail to Tengboche is exceptionally scenic, with the Dudh Koshi River flowing in the distance and majestic peaks such as Thamserku, Kangtega, Ama Dablam, Lhotse, and Everest rising ahead. Forests, mani walls, stupas, and suspension bridges along the route create a uniquely beautiful Himalayan walking experience. After crossing the bridge over the Imja Khola following about an hour of downhill walking, we continue with a steady uphill climb to reach Phungi Thenga, known for its colourful prayer wheels. From here, we continue climbing through rich rhododendron and oak forests until we arrive at Tengboche Monastery, the largest and one of the oldest monasteries in the Khumbu region. It is also regarded as the spiritual heart of the Khumbu, offering a peaceful and deeply atmospheric setting surrounded by Himalayan peaks.",
+        "activities": [
+          "Cross Imja Khola bridge",
+          "Visit Tengboche Monastery",
+          "Rhododendron forest trek"
+        ],
+        "trailTime": "5 Hours",
+        "sleepingAltitude": "3,800m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 7,
+        "title": "Trek to Dingboche",
+        "description": "Today's path crosses the Imja Khola via a suspension bridge and continues to Deboche. From there, the trail leads us toward Pangboche village, known for its stone-walled fields and historic monastery. The terrain gradually changes as we leave the dense forest behind and enter areas of alpine shrubs. Soon, we arrive at Dingboche, often called the \"Summer Valley\" of the Khumbu region. From Dingboche, we can enjoy stunning views of Lhotse (8,414 m), Ama Dablam (6,856 m), and Island Peak/Imja Tse (6,189 m).",
+        "activities": [
+          "Cross Imja Khola bridge",
+          "Visit Pangboche village",
+          "Arrive at Dingboche"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "4,410m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 8,
+        "title": "Acclimatization Day",
+        "description": "Today is our second acclimatization day, necessary to acclimate our bodies to higher altitudes. We can trek from to Chhukung or Nagarzhang Peak, a small summer settlement from where we can enjoy the magnificent views of Island Peak, Lhotse, Ama Dablam, and the grooved ice walls surrounding the Amphu Lapcha pass.",
+        "activities": [
+          "Hike to Chhukung or Nagarzhang Peak",
+          "Acclimatization",
+          "Mountain views"
+        ],
+        "trailTime": "4 Hours",
+        "sleepingAltitude": "4,410m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 9,
+        "title": "Trek to Lobuche",
+        "description": "Our trek towards Everest Base Camp continues through alpine meadows and yak pastures, leading toward the edge of the Khumbu Glacier, where the small settlement of Dughla is located. As we proceed, we cross Thukla Pass, marked by stone memorials dedicated to deceased Sherpas and climbers. We pause here to pay our respects before continuing our hike across the alpine terrain to reach Lobuche.",
+        "activities": [
+          "Cross Thukla Pass",
+          "Visit memorial chortens",
+          "Alpine trek"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "4,900m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 10,
+        "title": "Trek to Everest Base Camp (5,363m) and back to Gorakshep",
+        "description": "Today, we will finally climb to Everest Base Camp. We will wake at dawn, have some light breakfast, and walk along the tattered moraine along the Khumbu glacier to reach Gorakshep. Here we will rest for a while then we will march to the Everest Base Camp. Permanent glaciers will appear to welcome us as we approach the base camp. Here Everest, Nuptse, Lhotse, Cho Oyu, Pumori, Island Peak, and Twache illuminate under the sparkling sun. We will take numerous commemorative photos together, then we will return to Gorakshep Lodge to rest.",
+        "activities": [
+          "Trek along Khumbu glacier",
+          "Reach Everest Base Camp",
+          "Glacier views"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "5,153m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 11,
+        "title": "Early morning visit Kala Patthar 5,550m and trek back to Dingboche",
+        "description": "We wake up at 4 am, put on a headlamp and winter gear, and set out to climb Kala Patthar for about 1.5 to 2 hours. As the sun slowly rises, the majesty of Mount Everest appears, turning red from the top. Pumori, Nuptse, Lhotse, and the entire Khumbu valley also stretch in front of us. After capturing this incredible scenery in our hearts, we descend to Gorakshep for a hot breakfast. Then we trek back to Dingboche village where we will rest tonight.",
+        "activities": [
+          "Sunrise at Kala Patthar",
+          "Trek back to Dingboche"
+        ],
+        "trailTime": "9 Hours",
+        "sleepingAltitude": "4,410m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 12,
+        "title": "Dingboche to Chhukung Valley",
+        "description": "After breakfast, we will hike once again along the Imja Khola to reach Chhukung village where we will stop for our lunch and rest for a while. In the afternoon our climbing guide will provide introductory training on using crampons, ice axe, Jumar and other belay devices. He will also demonstrate the technique of moving safely on fix rope.",
+        "activities": [
+          "Trek to Chhukung",
+          "Climbing gear training",
+          "Fixed rope techniques"
+        ],
+        "trailTime": "2 Hours",
+        "sleepingAltitude": "4,730m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 13,
+        "title": "Chhukung Valley - Island Peak Base Camp",
+        "description": "Today, we will reach Island Peak Base Camp, which takes about three to four hours of trekking over steep rocky terrain across the moraine below the Lhotse Glacier and then following the small river above Imja Khola. As we pass through this terrain, we will emerge into a wide valley in the southwest area of Island Peak. Upon reaching base camp, we will settle into the tents prepared by our climbing team and take a well-deserved rest.",
+        "activities": [
+          "Trek across Lhotse Glacier moraine",
+          "Reach Island Peak Base Camp",
+          "Rest at base camp"
+        ],
+        "trailTime": "3 Hours",
+        "sleepingAltitude": "5,200m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tented Camp"
+      },
+      {
+        "day": 14,
+        "title": "Base camp - Island Peak Summit 6,189m and trek back to Dingboche",
+        "description": "We will start our day early, probably around 1 am, and head out on the trail. The first section of the climb takes us along a steep cliff side and a narrow path covered with large rocks, followed by a traverse across a fairly steep gully. From here, we follow the ridge up to the base of the glacier leading towards the summit. A steep ascent over a snowy slope brings us closer to the top. In this section, our climbing guide will fix a rope for safety. Typically, the rope extends up to around 350 meters, depending on snow conditions and the size of the crevasses. Once we reach the top, we will sit back, relax, and enjoy the most stunning views of Mera, Ama Dablam, Makalu, Chamlang, Baruntse, and other surrounding peaks. After spending some time at the summit, we will descend back down to Island Peak Base Camp. Following a meal, we continue our descent to Chhukung and then onward to Dingboche village for an overnight stay.",
+        "activities": [
+          "Summit Island Peak at 1 am",
+          "Glacier and snow climb",
+          "Descend to Dingboche"
+        ],
+        "trailTime": "12 Hours",
+        "sleepingAltitude": "4,410m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 15,
+        "title": "Reserve Day in case of bad weather",
+        "description": "This is a contingency day reserved in case of bad weather that prevents us from summiting Island Peak on Day 14. We can use this day for the summit attempt or for any other delays during the expedition.",
+        "activities": [
+          "Reserve day for weather delays",
+          "Rest",
+          "Backup summit attempt"
+        ],
+        "sleepingAltitude": "4,410m",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 16,
+        "title": "Dingboche - Namche",
+        "description": "After breakfast, we follow the same trail back towards Namche Bazar.",
+        "activities": [
+          "Descend to Namche Bazaar"
+        ],
+        "trailTime": "8 Hours",
+        "sleepingAltitude": "3,400m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 17,
+        "title": "Trek to Lukla",
+        "description": "Our journey back to Lukla crosses several suspension bridges via a descending trail. Chortens, prayer flags, and small Gompas line the villages and tracks. The presence of the Bhote Koshi River enhances the lovely atmosphere amidst the natural surroundings. Upon arrival in Lukla, we will head to our lodge, enjoy a hot shower, and sleep comfortably in our cozy room. In the evening, we may take a stroll around the vibrant town.",
+        "activities": [
+          "Descend to Lukla",
+          "Cross suspension bridges",
+          "Farewell dinner"
+        ],
+        "trailTime": "6 Hours",
+        "sleepingAltitude": "2,840m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 18,
+        "title": "Flight to Kathmandu",
+        "description": "We will take a short, approximately 30 min flight from Lukla to Kathmandu early in the morning. Upon arrival, we will drive you to the hotel. After refreshing and relaxing you may enjoy a stroll through the vibrant streets of Thamel.",
+        "activities": [
+          "Flight to Kathmandu",
+          "Hotel transfer",
+          "Explore Thamel"
+        ],
+        "trailTime": "NA",
+        "sleepingAltitude": "1,350m",
+        "meal": "Breakfast",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 19,
+        "title": "Departure",
+        "description": "Your final day in Nepal. We arrange your airport transfer today at your scheduled time. Thank you for choosing us to make your dream journey possible.",
+        "activities": [
+          "Airport transfer",
+          "Departure"
+        ],
+        "meal": "Breakfast",
+        "accommodation": "-"
+      }
+    ],
+    "inclusions": [
+      "All international and domestic airport transfers by private vehicle.",
+      "Twin-sharing (double occupancy) accommodation in hotel for 3 nights in Kathmandu, including breakfast.",
+      "Domestic flights: Kathmandu-Lukla-Kathmandu",
+      "Twin-sharing Tea house accommodation during the trek for 13 nights in the mountains, including one night in a tented camp.",
+      "All your standard meals during the trek (Breakfast, Lunch, and Dinner), with a cup of tea.",
+      "Experienced, government-licensed, English-speaking trekking guide.",
+      "Professional mountain climbing guide for expedition day/s.",
+      "Climbing gears (ice axe/climbing shoes/crampons/harness/rope)",
+      "All the necessary permits (Trekking permit/Climbing Permit and Local authority permits)",
+      "Porters for the trek to carry luggage (1 porter for 2 clients up to 22 kgs total).",
+      "Staff Wages, accommodation, meals, gear, insurance for all supporting staff.",
+      "All administrative expenses and government taxes.",
+      "Climbing certificate upon successful completion of the climb.",
+      "Emergency evacuation assistance in case of any emergency."
+    ],
+    "exclusions": [
+      "International air fare.",
+      "Nepal Visa.",
+      "Emergency Evacuation and medical treatment.",
+      "Accommodations upgrades.",
+      "Travel Insurances.",
+      "Changes in itinerary due to flight cancellations, unavoidable delays en route (such as landslides), and any resulting extra or cancelled accommodation.",
+      "Summit bonus for personal climbing guide.",
+      "Tips for the guides, porters and drivers",
+      "Personal expenses.",
+      "Excess luggage above recommended levels. (Baggage-10Kg, Hand carry-5Kg)",
+      "Some meals, all kind of bottled drinks",
+      "Hot showers (extra charges may applies)",
+      "Wi-fi Internet service"
+    ],
+    "maxAltitude": "6,189 m",
+    "bestSeason": "March-May, September-November",
+    "groupSize": "2-10 persons",
+    "routeInfo": {
+      "origin": "Lukla",
+      "destination": "Island Peak",
+      "totalDistance": "Approx. 125 km",
+      "totalFlightTime": "35 min each way"
+    },
+    "departureInfo": {
+      "frequency": "Fixed departures",
+      "availableDays": [
+        "Monday",
+        "Thursday"
+      ],
+      "departureTime": "Early morning",
+      "meetingPoint": "Kathmandu hotel"
+    },
+    "faqs": [
+      {
+        "question": "How technical is Island Peak?",
+        "answer": "Moderate. It requires basic mountaineering skills like using crampons and a rope on steep snow sections."
+      },
+      {
+        "question": "Do I need prior climbing experience?",
+        "answer": "Some high-altitude trekking experience is recommended, but no technical climbing experience is required."
+      },
+      {
+        "question": "What is the best season for this climb?",
+        "answer": "The best seasons are spring (March to May) and autumn (September to November) when weather is stable and visibility is excellent."
+      },
+      {
+        "question": "What is included in the price?",
+        "answer": "The price includes accommodation, meals during the trek, guide and porter service, permits, domestic flights, and climbing equipment."
+      },
+      {
+        "question": "What should I pack for the expedition?",
+        "answer": "Pack layered clothing, waterproof jacket, trekking boots, gloves, sunglasses, sunscreen, headlamp, and personal items. Climbing gear is provided."
+      },
+      {
+        "question": "Do I need travel insurance?",
+        "answer": "Yes, comprehensive travel insurance covering high-altitude trekking and emergency evacuation is mandatory."
+      },
+      {
+        "question": "How do we prevent altitude sickness?",
+        "answer": "We follow a gradual ascent profile with built-in acclimatization days, stay hydrated, and our guides monitor everyone closely for symptoms."
+      },
+      {
+        "question": "What type of accommodation is provided?",
+        "answer": "Tea house lodges during the trek and tented camps at higher altitudes. All accommodations are clean and comfortable."
+      },
+      {
+        "question": "How should I prepare physically?",
+        "answer": "We recommend at least 2-3 months of regular cardio, hiking, and leg strengthening exercises before the trip."
+      },
+      {
+        "question": "What happens in case of bad weather?",
+        "answer": "Our experienced guides continuously monitor weather conditions and will adjust the itinerary to ensure your safety."
+      }
+    ]
+  },
+  {
+    "id": "peak-2",
+    "title": "Mera Peak Climbing",
+    "slug": "mera-peak-climbing",
+    "region": "Everest",
+    "durationDays": 19,
+    "priceUsd": 2650,
+    "image": "/storage/media/images/hero-home.jpg",
+    "shortDescription": "Summit Nepal's highest trekking peak (6,476 m) with breathtaking views of five 8,000 m peaks.",
+    "fullDescription": "Do you want to stand above the clouds, surrounded by breathtaking views of rarefied mountain landscapes? Yes, then our Mera Peak expedition is for you which is not just a trip but a real adventure, where every step is filled with meaning and challenge. Mera Peak, the highest trekking peak in Nepal, offers a unique chance to cross the threshold of 6000 meters. It is situated in the Hongu Himal and surrounds the Solukhumbu and Makalu Barun National Park. The three main peaks of Mera are Mera North at 6476 m, Mera Central at 6461 m and Mera South at 6065 m. The classic route takes us to the Mera Central which was first conquered in 1953 by British Army officer Jim Roberts, and his Sherpa Sen Tenzing. The summit of Mera Peak offers unbelievable views of the five highest peaks on the planet: Lhotse, Makalu, Kanchenjunga, Cho Oyu, and Everest. In our 19-day Mera Peak Expedition, we will set to triumph the Mera Central from Lukla. Climbing the Hinku Valley, we return to Kathmandu crossing the 4610 m Zatrawa La Pass. Our designed route to the Mera Peak expedition takes us through the pristine trails of Makalu Barun National Park, where encounters with other hikers are rare, making our adventure even more exclusive. In addition, we traverse through and spend nights in calm Sherpa villages where we get to interact with the friendliest people on the planet. Likewise, our ascent program is designed with optimal acclimatization in mind. We have two backup days at Tangnag and Khare in case of unforeseen circumstances therefore increasing the probability of successfully achieving our goal. Additionally, we will have a climbing preparation and training session at Khare. Being technically easy, the Mera Peak Expedition is suitable for beginners. It will be your starting point into a world of high-altitude adventure. Come join us! Be the early bird and enjoy a lucrative discount with confirmation of your seat in this remarkable journey in Nepal.",
+    "highlights": [
+      "The pinnacle of expedition is reached as climbers stand atop Mera Peak's soaring summit, 6476m above sea level. The sense of achievement is appreciable as adventurers gaze upon the vast expanse of the Himalayan range stretching into the horizon.",
+      "Life-changing experience as this expedition leaves an incredible marks on the soul, igniting a passion for exploration and a thirst for new adventures.",
+      "Spectacular view of five eight thousand meters high mountains at the same time.",
+      "Walking through quiet rural areas, away from crowds of tourists who choose more popular routes."
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kathmandu airport (arrival) - Transfer to Hotel",
+        "description": "At the exit gate of the International Airport, our guide will meet you and take you to the hotel in Kathmandu. Depending on your arrival time, you will have time to rest from a long flight. In the evening, our guide will gather all group members, introduce each participant, and he will give you a briefing according to the Mera Peak Expedition program.",
+        "activities": [
+          "Airport pickup",
+          "Hotel transfer",
+          "Group briefing"
+        ],
+        "trailTime": "N/A",
+        "sleepingAltitude": "1,350m",
+        "meal": "Welcome Dinner",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 2,
+        "title": "Kathmandu (Final preparation day)",
+        "description": "After a relaxing breakfast, our guide will meet you at the hotel and he will collect all your documents so he can process to obtain the required permits for the Mera Peak Expedition. He will also check your equipment, and tell you where you can buy what is missing, what to replace, and what does not fit. Optional: Sightseeing tour around Kathmandu Valley. You can choose to join a sightseeing tour. This is available at an extra cost, and we will organize it for you. Please retire early for the early morning flight to Lukla the next day.",
+        "activities": [
+          "Document collection",
+          "Equipment check",
+          "Permit processing"
+        ],
+        "trailTime": "N/A",
+        "sleepingAltitude": "1,350m",
+        "meal": "B",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 3,
+        "title": "Kathmandu to Lukla flight, trek to Paiya (2,700m)",
+        "description": "Early in the morning, we will depart to Kathmandu airport for a short scenic flight to Lukla. In case of Lukla flight diversion to Manthali/Ramechhap airport, we will drive there at midnight so we can catch an early morning flight to Lukla. Here our local guides and porters will meet us and relieve us from our luggage. Now, we will officially begin our trek towards Mera Peak. Hiking along narrow paths and crossing some suspension bridges, we will reach Surke from where we will climb Chutok La Pass. Descending from the Pass, we will arrive at Paiya- our destination for the night.",
+        "activities": [
+          "Scenic flight to Lukla",
+          "Trek to Surke",
+          "Cross Chutok La Pass",
+          "Arrive at Paiya"
+        ],
+        "trailTime": "5 Hrs",
+        "sleepingAltitude": "2,700m",
+        "meal": "B/L/D",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 4,
+        "title": "Paiya to Panguma",
+        "description": "From Paiya, we go steeply downhill until we reach a river with a small bridge. On the way, we pass bamboo and rhododendron forests. Today we will enter the Dudhkoshi Valley and finally reach Panguma, a hamlet with terraced fields where we will stay for the night.",
+        "activities": [
+          "Descend to river",
+          "Pass bamboo and rhododendron forests",
+          "Enter Dudhkoshi Valley",
+          "Arrive at Panguma"
+        ],
+        "trailTime": "6 Hours",
+        "sleepingAltitude": "2,850m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 5,
+        "title": "Panguma to Ningsow (2,870m)",
+        "description": "After breakfast, we will leave the agricultural fields of Panguma and move on to cross the Panguma La Pass. We will then climb on a path towards the north. We will reach the Peseng Kharka Khola, cross it, and reach Peeng Kharka Danda. On our last stage of the day, we cross the Ningsow Khola and finally reach Ningsow.",
+        "activities": [
+          "Cross Panguma La Pass",
+          "Cross Peseng Kharka Khola",
+          "Cross Ningsow Khola",
+          "Arrive at Ningsow"
+        ],
+        "trailTime": "6.5 Hours",
+        "sleepingAltitude": "2,870m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 6,
+        "title": "Ningsow to Chatra Khola",
+        "description": "Today is one of the longest trekking days of the Mera Peak expedition. We will leave Ningsow behind us and climb to Ramailo Danda. From here we can already see Mera Peak. We will reach the Makalu Barun National Park and hike to Chhatra Khola, where we will rest for the night.",
+        "activities": [
+          "Climb to Ramailo Danda",
+          "View of Mera Peak",
+          "Enter Makalu Barun National Park",
+          "Arrive at Chhatra Khola"
+        ],
+        "trailTime": "8 Hours",
+        "sleepingAltitude": "3,150m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 7,
+        "title": "Chatra Khola to Kote",
+        "description": "After breakfast, we will hike along the Majang Khola enjoying its melodious sound. Our trail now joins the path that follows the Hinku Khola. Shortly, we will reach Tashing Ongma, then we will cross a bridge over Sanu Khola and reach Kote.",
+        "activities": [
+          "Hike along Majang Khola",
+          "Join Hinku Khola path",
+          "Pass Tashing Ongma",
+          "Cross Sanu Khola bridge",
+          "Arrive at Kote"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "3,650m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 8,
+        "title": "Kote to Tangnag (4,350m)",
+        "description": "We will have breakfast with a delightful view of Mera Peak upfront. Then we will walk along the mountain ridge and reach Gondishung, a temporary shepherd's village. We will have lunch here before passing the Lungsumgba Gompa, an old gompa. Finally, we will reach Tangnag, our destination for today.",
+        "activities": [
+          "Walk along mountain ridge",
+          "Visit Gondishung shepherd village",
+          "Pass Lungsumgba Gompa",
+          "Arrive at Tangnag"
+        ],
+        "trailTime": "4-5 Hours",
+        "sleepingAltitude": "4,350m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 9,
+        "title": "Rest and acclimatization day in Tangnag (4,350m)",
+        "description": "After an early breakfast, we will set off to explore Tangnag village. First, we will take a tour of Sabal Tsho Lake and spend some time here. Then we will walk towards the cairn on the foot of the Kusum Kanguru Peak from where we can also view Mera Peak. Then we will return to our lodge and spend the night.",
+        "activities": [
+          "Tour of Sabal Tsho Lake",
+          "Walk to Kusum Kanguru Peak cairn",
+          "View of Mera Peak"
+        ],
+        "trailTime": "2 Hours",
+        "sleepingAltitude": "4,350m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 10,
+        "title": "Tangnag to Khare",
+        "description": "Leaving Tangnag, we hike along the lateral side of the Dig glacier. Throughout the trek, we will enjoy breathtaking views of the Charpate Himal. Later the path reaches the moraines of other glaciers and finally leads to Khare. We will have some time to explore the village of Khare and the surrounding places.",
+        "activities": [
+          "Hike along Dig glacier",
+          "View of Charpate Himal",
+          "Cross glacier moraines",
+          "Arrive at Khare"
+        ],
+        "trailTime": "4-5 Hours",
+        "sleepingAltitude": "5,090m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 11,
+        "title": "Rest and acclimatization day at Khare",
+        "description": "Today we have an acclimatization day to get used to the altitude of the region. We will also use the day to prepare for the upcoming climb. Our climbing guide will train you in the use of rope, ice axes, boots, crampons, and other climbing equipment. This is an important day on the Mera Peak Expedition.",
+        "activities": [
+          "Acclimatization",
+          "Climbing equipment training",
+          "Rope and ice axe practice"
+        ],
+        "trailTime": "3 Hours",
+        "sleepingAltitude": "5,090m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 12,
+        "title": "Khare to High Camp (5,800m)",
+        "description": "We begin today's climb from a boulder-strewn region to Mera Peak Base Camp. We will reach Mera La Pass through a rough and snowy path to reach Mera High Camp via Base Camp. We have to be careful here as there are some crevasses. We will overcome all sections and reach the high camp safely. Our team will set up a camp for us and we will end the day on the mountain. We will have a breathtaking panorama of Cho Oyu, Lhotse, Nuptse, Everest, Baruntse, Makalu, and Chamlang.",
+        "activities": [
+          "Trek to Mera Peak Base Camp",
+          "Cross Mera La Pass",
+          "Reach Mera High Camp",
+          "Set up tents at high camp"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "5,800m",
+        "meal": "BLD",
+        "accommodation": "Tent"
+      },
+      {
+        "day": 13,
+        "title": "Summit Mera Peak (6,461m) and back to Khare",
+        "description": "The big day is here, the day when we will finally climb the summit of the highest trekking peak in Nepal. We set off early and the Mera glacier shows us the way. Shortly before the summit the path steepens and if necessary, the steep step is secured with a fixed rope. We have a fantastic view of five 8000-meter peaks: Cho Oyu (8,201 m), Mt. Everest (8,848 m), Lhotse (8,516 m), Makalu (8,485 m) and Kanchenjunga (8,586 m). We enjoy this emotional and unique summit moment and then prepare for the descent. The descent takes place on the same route back to Khare.",
+        "activities": [
+          "Summit Mera Peak at 6,461m",
+          "View five 8,000m peaks",
+          "Descend back to Khare"
+        ],
+        "trailTime": "10-11 Hours",
+        "sleepingAltitude": "5,090m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 14,
+        "title": "Khare to Kote",
+        "description": "Now our trekking back to Lukla begins. We take the familiar route back to Kothe passing Tangnag where we will celebrate our accomplishment.",
+        "activities": [
+          "Descend through Tangnag",
+          "Celebrate accomplishment",
+          "Arrive at Kote"
+        ],
+        "trailTime": "6-7 Hours",
+        "sleepingAltitude": "3,600m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 15,
+        "title": "Kote to Thuli Kharka",
+        "description": "After breakfast, we leave Kothe. Today we climb through the Hinku Valley to Thuli Kharka. We spend a lovely evening in this place and enjoy the mountain landscape.",
+        "activities": [
+          "Climb through Hinku Valley",
+          "Arrive at Thuli Kharka"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "4,300m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 16,
+        "title": "Thuli Kharka via Zatrawa La (4,610m) to Lukla (2,800m)",
+        "description": "Today the last trekking stage to Lukla starts. We leave Thuli Kharka and cross the Zatra La pass (4,610 m). From the pass, we can see Lukla and the adjacent peaks like Numbur Himal, Kusum Khangru, Kongde Peak, and other peaks. From the pass, we hike via Chuthanga to Lukla.",
+        "activities": [
+          "Cross Zatrawa La Pass",
+          "View of Lukla and surrounding peaks",
+          "Hike via Chuthanga",
+          "Arrive at Lukla"
+        ],
+        "trailTime": "8 Hours",
+        "sleepingAltitude": "2,800m",
+        "meal": "BLD",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 17,
+        "title": "Early in the morning fly back to Kathmandu",
+        "description": "On our return flight to Kathmandu, we once again will enjoy the breathtaking view of the surrounding mountains. After the transfer to the hotel, you can stroll through the city again and end the evening.",
+        "activities": [
+          "Flight from Lukla to Kathmandu",
+          "Hotel transfer",
+          "Stroll through the city"
+        ],
+        "trailTime": "NA",
+        "sleepingAltitude": "1,350m",
+        "meal": "B",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 18,
+        "title": "Reserve day",
+        "description": "We enjoy the day off in Kathmandu with final shopping, spa, massage, etc. We will use the evening to celebrate our trekking expedition to the summit of Mera Peak with a charming farewell dinner at one of the delightful Nepali restaurants.",
+        "activities": [
+          "Final shopping",
+          "Spa and massage",
+          "Farewell dinner"
+        ],
+        "sleepingAltitude": "",
+        "meal": "",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 19,
+        "title": "Departure",
+        "description": "After breakfast, you will be taken to Kathmandu airport to catch your flight back home.",
+        "activities": [
+          "Airport transfer",
+          "Departure"
+        ],
+        "sleepingAltitude": "",
+        "meal": "Breakfast",
+        "accommodation": "Hotel"
+      }
+    ],
+    "inclusions": [
+      "All international and domestic airport transfers by private vehicle.",
+      "Twin-sharing (double occupancy) accommodation in hotel for 3 nights in Kathmandu, including breakfast.",
+      "Domestic flights: Kathmandu-Lukla-Kathmandu",
+      "Twin-sharing Tea house accommodation during the trek for 14 nights in the mountains, including one night in a tented camp.",
+      "All your standard meals during the trek (Breakfast, Lunch, and Dinner), with a cup of tea.",
+      "Experienced, government-licensed, English-speaking trekking guide.",
+      "Professional mountain climbing guide for expedition day/s.",
+      "Climbing gears (ice axe/climbing shoes/crampons/harness/rope)",
+      "All the necessary permits (Trekking permit/Climbing Permit and Local authority permits)",
+      "Porters for the trek to carry luggage (1 porter for 2 clients up to 22 kgs total).",
+      "Staff Wages, accommodation, meals, gear, insurance for all supporting staff.",
+      "All administrative expenses and government taxes.",
+      "Climbing certificate upon successful completion of the climb.",
+      "Emergency evacuation assistance in case of any emergency."
+    ],
+    "exclusions": [
+      "International air fare.",
+      "Nepal Visa.",
+      "Emergency Evacuation and medical treatment.",
+      "Accommodations upgrades.",
+      "Travel Insurances.",
+      "Changes in itinerary due to flight cancellations, unavoidable delays en route (such as landslides), and any resulting extra or cancelled accommodation.",
+      "Summit bonus for personal climbing guide.",
+      "Tips for the guides, porters and drivers",
+      "Personal expenses.",
+      "Excess luggage above recommended levels. (Baggage-10Kg, Hand carry-5Kg)",
+      "Some meals, all kind of bottled drinks",
+      "Hot showers (extra charges may applies)",
+      "Wi-fi Internet service"
+    ],
+    "maxAltitude": "6,476 m",
+    "bestSeason": "March-May, September-November",
+    "groupSize": "2-10 persons",
+    "routeInfo": {
+      "origin": "Lukla",
+      "destination": "Mera Peak",
+      "totalDistance": "Approx. 90 km",
+      "totalFlightTime": "35 min each way"
+    },
+    "departureInfo": {
+      "frequency": "Fixed departures",
+      "availableDays": [
+        "Tuesday",
+        "Friday"
+      ],
+      "departureTime": "Early morning",
+      "meetingPoint": "Kathmandu hotel"
+    },
+    "faqs": [
+      {
+        "question": "Is Mera Peak harder than Island Peak?",
+        "answer": "Mera Peak is higher but technically easier. The main challenge is the altitude, not the technical climbing."
+      },
+      {
+        "question": "Can beginners climb Mera Peak?",
+        "answer": "Yes, Mera Peak is suitable for fit trekkers with no prior climbing experience, though proper acclimatization is essential."
+      },
+      {
+        "question": "What is the best season for this climb?",
+        "answer": "The best seasons are spring (March to May) and autumn (September to November) when weather is stable and visibility is excellent."
+      },
+      {
+        "question": "What is included in the price?",
+        "answer": "The price includes accommodation, meals during the trek, guide and porter service, permits, domestic flights, and climbing equipment."
+      },
+      {
+        "question": "What should I pack for the expedition?",
+        "answer": "Pack layered clothing, waterproof jacket, trekking boots, gloves, sunglasses, sunscreen, headlamp, and personal items. Climbing gear is provided."
+      },
+      {
+        "question": "Do I need travel insurance?",
+        "answer": "Yes, comprehensive travel insurance covering high-altitude trekking and emergency evacuation is mandatory."
+      },
+      {
+        "question": "How do we prevent altitude sickness?",
+        "answer": "We follow a gradual ascent profile with built-in acclimatization days, stay hydrated, and our guides monitor everyone closely for symptoms."
+      },
+      {
+        "question": "What type of accommodation is provided?",
+        "answer": "Tea house lodges during the trek and tented camps at higher altitudes. All accommodations are clean and comfortable."
+      },
+      {
+        "question": "How should I prepare physically?",
+        "answer": "We recommend at least 2-3 months of regular cardio, hiking, and leg strengthening exercises before the trip."
+      },
+      {
+        "question": "What happens in case of bad weather?",
+        "answer": "Our experienced guides continuously monitor weather conditions and will adjust the itinerary to ensure your safety."
+      }
+    ]
+  },
+  {
+    "id": "peak-3",
+    "title": "Lobuche Peak Climbing",
+    "slug": "lobuche-peak-climbing",
+    "region": "Everest",
+    "durationDays": 18,
+    "priceUsd": 2550,
+    "image": "/storage/media/images/hero-home.jpg",
+    "shortDescription": "A challenging and rewarding climb of Lobuche Peak (6,119 m) combined with the classic Everest Base Camp trek.",
+    "fullDescription": "Lobuche Peak climbing presents an exciting and challenging expedition in the stunning Khumbu Region of Nepal, nestled within the iconic Sagarmatha National Park. Rising to an impressive altitude of 6119 meters, Lobuche Peak offers two main summits to conquer: Lobuche East (6119m) and Lobuche West (6145m). Climbers typically target Lobuche East, which requires technical skills like ice climbing and glacier travel. The ascent to Lobuche Peak involves navigating diverse terrain, including rocky paths and snow slopes, against a backdrop of majestic Himalayan vistas. To embark on this adventure, climbers should possess a good level of physical fitness and well acclimatize with high-altitude trekking. Basic mountaineering skills are beneficial, especially for negotiating challenging sections of the climb. Spring (March to May) and autumn (September to November) are considered the best seasons for Lobuche Peak climbing, offering favorable weather conditions and clear skies for safer ascents. Winter climbs are possible but demand careful planning due to colder temperatures and potential snowfall. Our experienced Sherpa guides and porters will assist climbers throughout the journey, providing valuable expertise and helping with logistic transport. The trek to Lobuche Peak also offers cultural encounters with Sherpa villages like Namche Bazaar and Dingboche, allowing climbers to immerse themselves in the local traditions and lifestyle of mountain communities. Proper preparation is essential for a successful Lobuche Peak climb, including physical training, acclimatization, and appropriate gear. Climbers should follow a gradual ascent itinerary to minimize the risk of altitude sickness and maximize the chances of reaching the summit safely. Overall, Lobuche Peak climbing promises an unforgettable mountaineering experience amidst Nepal's breathtaking Himalayan landscapes and vibrant Sherpa culture.",
+    "highlights": [
+      "Ascend Lobuche East (6,119m), a technically challenging peak in the Khumbu Region.",
+      "Visit Everest Base Camp (5,364m) and Kala Patthar (5,550m).",
+      "Enjoy panoramic vistas of the Himalayan range, including Everest, Lhotse, Nuptse, and more.",
+      "Visit Sherpa villages like Namche Bazaar and Dingboche, encountering local culture and hospitality.",
+      "Create lifelong memories with a challenging yet rewarding mountaineering adventure.",
+      "Experience the enchanting scenic flight to Lukla."
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival Kathmandu 1,350m",
+        "description": "After you arrive at Kathmandu Airport, our local guide will warmly receive you and transfer you to the hotel. Rest to relieve your exhaustion after a long flight.",
+        "activities": [
+          "Airport pickup",
+          "Hotel transfer",
+          "Rest"
+        ],
+        "sleepingAltitude": "1,350m",
+        "meal": "",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 2,
+        "title": "Final preparation day",
+        "description": "Check all your climbing and trekking gear before your adventure. Kathmandu offers plenty of outdoor shops, with everything from affordable local brands to world-renowned international outdoor brands.",
+        "activities": [
+          "Gear check",
+          "Last-minute shopping"
+        ],
+        "sleepingAltitude": "1,350m",
+        "meal": "Breakfast",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 3,
+        "title": "Flight to Lukla 2,840m - Trek to Phakding",
+        "description": "Enjoy an exciting early morning flight to Lukla Airport, aka Tenzing Hillary Airport. After we land, our local team of guides and porters will relieve us from the luggage. Then, we will have our breakfast and walk along the Dudh Koshi River to reach Phakding. It's an easy trail with a gradual descent towards Thado Koshi. Then we will slowly hike uphill for two more hours to reach our overnight accommodation in Phakding.",
+        "activities": [
+          "Scenic flight to Lukla",
+          "Trek to Phakding",
+          "Walk along Dudh Koshi River"
+        ],
+        "trailTime": "4 Hours",
+        "sleepingAltitude": "2,610m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 4,
+        "title": "Phakding to Namche Bazaar 3,400m",
+        "description": "From Phakding, we will immediately start to climb and walk into the woods and cross the Dudh Koshi River a couple of times. Past the villages of Toktok and Benkar, we reach Monjo. Past Monjo, the path becomes steep till we arrive at Namche via Jorsalle. The town is a pearl in the valley, a small center in a large amphitheater, teeming with life. Kusum Kanguru, Kongde Ri, Thamserku, and Everest will bestow their glory upon you in this village.",
+        "activities": [
+          "Cross Dudh Koshi River",
+          "Pass through Toktok, Benkar, Monjo",
+          "Arrive at Namche"
+        ],
+        "trailTime": "6 Hours",
+        "sleepingAltitude": "3,400m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 5,
+        "title": "Namche Bazaar Acclimatization Day",
+        "description": "There are many options for spending our first acclimatization day today. We can climb 300 m and go to Khumjung, the largest in the Khumbu Valley. Or you can hike for 3 hours to Everest View Hotel to enjoy the most luxurious breakfast with precious views of Everest, Lhotse, Nuptse, and Ama Dablam. After enjoying our time, we will return to our lodge and spend the night.",
+        "activities": [
+          "Hike to Khumjung or Everest View Hotel",
+          "Acclimatization"
+        ],
+        "trailTime": "6 Hours",
+        "sleepingAltitude": "3,400m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 6,
+        "title": "Trek to Tengboche",
+        "description": "Leaving Namche, we resume our uphill journey towards Imja Khola. Crossing the bridge, we climb to Phungi Thenga where colorful prayer wheels and flags give us a glimpse of Tibetan culture. From here on, our climb will be on a steep hill section with a lot of elevation gain, making it an area prone to altitude sickness, so we will walk gradually and drink lots of water. Along the route, appreciate the beautiful and famous peaks of the Khumbu region, such as Everest, Ama Dablam, and Lhotse. Soon, the Buddhist chants of the Tengboche monastery will enchant us. We will end the day at one of the village lodges and share friendship with our companions.",
+        "activities": [
+          "Cross Imja Khola bridge",
+          "Visit Phungi Thenga",
+          "Visit Tengboche Monastery"
+        ],
+        "trailTime": "5 Hours",
+        "sleepingAltitude": "3,800m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 7,
+        "title": "Trek to Dingboche",
+        "description": "Welcoming a blessed Himalayan morning, we now proceed with a trekking schedule through Diboche, Pangboche to Dingboche. Finally, from this trail, we get an up-close view of Ama Dablam — it is truly beautiful. Dingboche Village has beautiful scenery surrounded by alpine snow peaks like a folding screen. We will spend a relaxing night under the starry sky of the village.",
+        "activities": [
+          "Trek through Diboche and Pangboche",
+          "View of Ama Dablam",
+          "Arrive at Dingboche"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "4,410m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 8,
+        "title": "Acclimatization day at Dingboche",
+        "description": "Today is also a day of altitude acclimatization at Dingboche. After enjoying a leisurely breakfast, you can take a leisurely 4-hour hike to the observatory near Dingboche called Nangkartshang Hill at 5616 m. Or, you can climb for two hours to Chhukung village at 4,700m. The climb to the Nangkartshang hill will be difficult due to altitude sickness, but this has a vaccination effect. It will make it easier to adapt to the altitude above 5,000 meters where you will stay for the next few days. In the late afternoon, we will descend to our lodge in Dingboche and rest for the next day's trek.",
+        "activities": [
+          "Hike to Nangkartshang Hill or Chhukung village",
+          "Acclimatization"
+        ],
+        "trailTime": "5 Hours",
+        "sleepingAltitude": "4,410m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 9,
+        "title": "Trek to Lobuche",
+        "description": "We will leave Ama Dablam behind and walk with Cholatse, and Taboche next to us. Today we will also see the Khumbu Glacier for the first time. Climbing gently, we will first arrive at Dughla then walking along the Khumbu Glacier moraine, we will arrive at Dughla Pass where the Sherpa and climber stone monuments are located with prayer flags. Soon we are at Lobuche where we will have dinner and spend the night enjoying a cup of tea while looking out at the stars as we adjust to the altitude.",
+        "activities": [
+          "View Khumbu Glacier",
+          "Cross Dughla Pass",
+          "Visit memorial monuments",
+          "Arrive at Lobuche"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "4,910m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 10,
+        "title": "Trek to Everest Base Camp (5,363m) and back to Gorakshep",
+        "description": "Today, we will finally climb to Everest Base Camp. We will wake at dawn, have some light breakfast, and walk along the tattered moraine along the Khumbu glacier to reach Gorakshep. Here we will rest for a while then we will march to the Everest Base Camp. Permanent glaciers will appear to welcome us as we approach the base camp. Here Everest, Nuptse, Lhotse, Cho Oyu, Pumori, Island Peak, and Twache illuminate under the sparkling sun. We will take numerous commemorative photos together, then we will return to Gorakshep Lodge to rest.",
+        "activities": [
+          "Trek along Khumbu glacier",
+          "Reach Everest Base Camp",
+          "Glacier views"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "5,153m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 11,
+        "title": "Morning hike to Kalapathar (5,550m) and Trek back to Lobuche",
+        "description": "We wake up at 4 am, put on a headlamp and winter gear, and set out to climb Kala Patthar for about 1.5 to 2 hours. As the sun slowly rises, the majesty of Mount Everest appears, turning red from the top. Pumori, Nuptse, Lhotse, and the entire Khumbu valley also stretch in front of us. After capturing this incredible scenery in our hearts, we descend to Gorakshep for a hot breakfast. Then we trek to Lobuche Peak Base Camp where we will rest tonight.",
+        "activities": [
+          "Sunrise at Kala Patthar",
+          "Trek to Lobuche Peak Base Camp"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "4,910m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 12,
+        "title": "Lobuche to High Camp",
+        "description": "After enjoying Everest Base Camp and Kalapatthar, we're gearing up for another incredible adventure — climbing Lobuche Peak. Our day starts after breakfast with a hike to Lobuche high camp on a narrow, possibly icy trail. For safety, we use ropes and crampons depending on the terrain. It's going to be a tough day, so we take it slow and rest often along the way. When we reach the high camp, we set up our tents for the afternoon and night. Our Sherpa team handles pitching the tents and taking care of important tasks. They carefully check all our gear and logistics needed for the climb. Meanwhile, our climbing Sherpa guide teaches us how to use the climbing equipment and tie knots. To prepare for our midnight climb to Lobuche Peak, we rest early today to ensure we're fully ready for the challenging ascent ahead.",
+        "activities": [
+          "Trek to High Camp",
+          "Use ropes and crampons",
+          "Climbing equipment training",
+          "Early rest"
+        ],
+        "trailTime": "4 Hours",
+        "sleepingAltitude": "5,400m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 13,
+        "title": "Peak summit day - Lobuche Peak (6,119m) and Back to Pheriche",
+        "description": "Waking up at midnight, well-rested, we prepare for the climb to Lobuche Peak. We wear our head torch, warmest clothes, climbing gear, and securely laced boots. We follow the path of experienced climbing Sherpas, aiming to start early to avoid strong winds that pick up later in the morning. Ascending with the group, we enjoy breathtaking views of the Himalayas along the way. At the summit, we pause for 15-20 minutes to savor the incredible experience and capture photos. After descending to base camp, we rest for about an hour and have a meal before trekking down to our next overnight stop in Pheriche.",
+        "activities": [
+          "Midnight summit push",
+          "Summit Lobuche Peak at 6,119m",
+          "Descend to Pheriche"
+        ],
+        "trailTime": "12-14 Hours",
+        "sleepingAltitude": "4,210m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 14,
+        "title": "Reserve Day for Contingency",
+        "description": "If we encounter bad weather or feel the need for an additional rest day, or if any other unexpected situations arise, we will use this day as a contingency. If everything goes smoothly, we will continue our journey as planned.",
+        "activities": [
+          "Reserve day for bad weather or rest",
+          "Flexible scheduling"
+        ],
+        "sleepingAltitude": "",
+        "meal": "",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 15,
+        "title": "Trek to Namche Bazaar",
+        "description": "The familiar path will take us back to Namche today. Hiking along the Dudh Koshi River once more, the alpine vegetation slowly gives way to rich vegetation again. We will pass the similar villages of Dingboche, and Tengboche and finally arrive at Namche where we will enjoy a hot shower, WIFI, and some freshly baked pie.",
+        "activities": [
+          "Descend along Dudh Koshi River",
+          "Pass through Dingboche and Tengboche",
+          "Arrive at Namche"
+        ],
+        "trailTime": "9 Hours",
+        "sleepingAltitude": "3,400m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 16,
+        "title": "Trek to Lukla",
+        "description": "On the last day of the trek, we will take a slow trek from Namche, and proceed to Lukla via Phakding. We will then wander around the beautiful mountain village of Lukla and taste the beauty of this small town. In the evening, we will celebrate the conclusion of our Everest Base Camp trek and enjoy a rich dinner.",
+        "activities": [
+          "Descend to Lukla via Phakding",
+          "Explore Lukla village",
+          "Celebration dinner"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "2,840m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Tea House"
+      },
+      {
+        "day": 17,
+        "title": "Early morning flight back to Kathmandu",
+        "description": "Early morning, we will once again board a domestic flight to Kathmandu from Lukla. After arriving in Kathmandu, you can rest in your hotel after such remarkable long day hikes. You can explore Thamel Street if you like, watch a traditional Nepalese cultural performance at one of the restaurants while having dinner, and enjoy the night.",
+        "activities": [
+          "Flight from Lukla to Kathmandu",
+          "Explore Thamel Street",
+          "Cultural performance"
+        ],
+        "trailTime": "7 Hours",
+        "sleepingAltitude": "1,350m",
+        "meal": "Breakfast, lunch, dinner",
+        "accommodation": "Hotel"
+      },
+      {
+        "day": 18,
+        "title": "Departure",
+        "description": "After breakfast, if you have time according to your flight time, you can enjoy a city tour once again, then transfer to Kathmandu Airport and return to the departure point from Nepal.",
+        "activities": [
+          "City tour",
+          "Airport transfer",
+          "Departure"
+        ],
+        "sleepingAltitude": "",
+        "meal": "Breakfast",
+        "accommodation": "Hotel"
+      }
+    ],
+    "inclusions": [
+      "All international and domestic airport transfers by private vehicle.",
+      "Twin-sharing (double occupancy) accommodation in hotel for 3 nights in Kathmandu, including breakfast.",
+      "Domestic flights: Kathmandu-Lukla-Kathmandu",
+      "Twin-sharing Tea house accommodation during the trek for 13 nights in the mountains, including one night in a tented camp.",
+      "All your standard meals during the trek (Breakfast, Lunch, and Dinner), with a cup of tea.",
+      "Experienced, government-licensed, English-speaking trekking guide.",
+      "Professional mountain climbing guide for expedition day/s.",
+      "Climbing gears (ice axe/climbing shoes/crampons/harness/rope)",
+      "All the necessary permits (Trekking permit/Climbing Permit and Local authority permits)",
+      "Porters for the trek to carry luggage (1 porter for 2 clients up to 22 kgs total).",
+      "Staff Wages, accommodation, meals, gear, insurance for all supporting staff.",
+      "All administrative expenses and government taxes.",
+      "Climbing certificate upon successful completion of the climb.",
+      "Emergency evacuation assistance in case of any emergency."
+    ],
+    "exclusions": [
+      "International air fare.",
+      "Nepal Visa.",
+      "Emergency Evacuation and medical treatment.",
+      "Accommodations upgrades.",
+      "Travel Insurances.",
+      "Changes in itinerary due to flight cancellations, unavoidable delays en route (such as landslides), and any resulting extra or cancelled accommodation.",
+      "Summit bonus for personal climbing guide.",
+      "Tips for the guides, porters and drivers",
+      "Personal expenses.",
+      "Excess luggage above recommended levels. (Baggage-10Kg, Hand carry-5Kg)",
+      "Some meals, all kind of bottled drinks",
+      "Hot showers (extra charges may applies)",
+      "Wi-fi Internet service"
+    ],
+    "maxAltitude": "6,119 m",
+    "bestSeason": "March-May, September-November",
+    "groupSize": "2-8 persons",
+    "routeInfo": {
+      "origin": "Lukla",
+      "destination": "Lobuche Peak",
+      "totalDistance": "Approx. 110 km",
+      "totalFlightTime": "35 min each way"
+    },
+    "departureInfo": {
+      "frequency": "Fixed departures",
+      "availableDays": [
+        "Monday",
+        "Thursday"
+      ],
+      "departureTime": "Early morning",
+      "meetingPoint": "Kathmandu hotel"
+    },
+    "faqs": [
+      {
+        "question": "How technical is Lobuche Peak?",
+        "answer": "Lobuche Peak is more technical than Island Peak, with steep rock and ice sections requiring rope work and crampon skills."
+      },
+      {
+        "question": "Can beginners climb Lobuche Peak?",
+        "answer": "This climb is best suited for trekkers with prior high-altitude experience and basic mountaineering skills."
+      },
+      {
+        "question": "What is the best season for this climb?",
+        "answer": "The best seasons are spring (March to May) and autumn (September to November) when weather is stable and visibility is excellent."
+      },
+      {
+        "question": "What is included in the price?",
+        "answer": "The price includes accommodation, meals during the trek, guide and porter service, permits, domestic flights, and climbing equipment."
+      },
+      {
+        "question": "What should I pack for the expedition?",
+        "answer": "Pack layered clothing, waterproof jacket, trekking boots, gloves, sunglasses, sunscreen, headlamp, and personal items. Climbing gear is provided."
+      },
+      {
+        "question": "Do I need travel insurance?",
+        "answer": "Yes, comprehensive travel insurance covering high-altitude trekking and emergency evacuation is mandatory."
+      },
+      {
+        "question": "How do we prevent altitude sickness?",
+        "answer": "We follow a gradual ascent profile with built-in acclimatization days, stay hydrated, and our guides monitor everyone closely for symptoms."
+      },
+      {
+        "question": "What type of accommodation is provided?",
+        "answer": "Tea house lodges during the trek and tented camps at higher altitudes. All accommodations are clean and comfortable."
+      },
+      {
+        "question": "How should I prepare physically?",
+        "answer": "We recommend at least 2-3 months of regular cardio, hiking, and leg strengthening exercises before the trip."
+      },
+      {
+        "question": "What happens in case of bad weather?",
+        "answer": "Our experienced guides continuously monitor weather conditions and will adjust the itinerary to ensure your safety."
+      }
+    ]
+  }
+]

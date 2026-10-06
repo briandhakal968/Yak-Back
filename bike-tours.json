@@ -1,0 +1,541 @@
+[
+  {
+    "id": "bike-1",
+    "title": "Kathmandu Valley Mountain Biking",
+    "slug": "kathmandu-valley-mountain-biking",
+    "region": "Kathmandu",
+    "durationDays": 1,
+    "priceUsd": 120,
+    "image": "/storage/media/images/hero-home.jpg",
+    "shortDescription": "A single-day guided mountain bike ride through the Kathmandu Valley.",
+    "fullDescription": "Experience the thrill of mountain biking around the Kathmandu Valley in a single day. This guided ride takes you through ancient villages, terraced fields, pine forests, and hilltop viewpoints with panoramic views of the Himalayas.",
+    "highlights": [
+      "Single-day adventure near Kathmandu",
+      "Ride through traditional Newari villages",
+      "Scenic viewpoints of the Himalayas",
+      "Suitable for beginners and intermediate riders",
+      "Quality mountain bike and safety gear provided"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kathmandu Valley Bike Ride",
+        "description": "Pick up from your hotel, transfer to the trailhead, and enjoy a guided full-day mountain bike ride through the valley.",
+        "activities": [
+          "Hotel pickup",
+          "Bike fitting and safety briefing",
+          "Guided valley ride",
+          "Lunch with mountain views",
+          "Return to Kathmandu"
+        ],
+        "accommodation": "N/A",
+        "sleepingAltitude": "1,400-2,200 m"
+      }
+    ],
+    "inclusions": [
+      "Hotel pickup and drop-off in Kathmandu",
+      "Quality mountain bike and helmet",
+      "Experienced cycling guide",
+      "Lunch during the ride",
+      "Basic repair kit and first aid"
+    ],
+    "exclusions": [
+      "International flights",
+      "Travel insurance",
+      "Personal expenses",
+      "Tips for guide",
+      "Alcoholic beverages"
+    ],
+    "maxAltitude": "2,200 m",
+    "bestSeason": "Year-round",
+    "groupSize": "2-8 persons",
+    "routeInfo": {
+      "origin": "Kathmandu",
+      "destination": "Kathmandu Valley trails",
+      "totalDistance": "25-40 km",
+      "totalFlightTime": "N/A"
+    },
+    "departureInfo": {
+      "frequency": "Daily",
+      "availableDays": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "departureTime": "7:00 AM",
+      "meetingPoint": "Your Kathmandu hotel"
+    },
+    "faqs": [
+      {
+        "question": "Do I need to be an experienced rider?",
+        "answer": "No, this day trip is suitable for beginners with basic fitness and confidence on a bike."
+      },
+      {
+        "question": "What should I bring?",
+        "answer": "Comfortable cycling clothes, sunglasses, sunscreen, and a small backpack. We provide the bike and helmet."
+      },
+      {
+        "question": "What is the best season for this ride?",
+        "answer": "The best seasons are autumn (September to November) and spring (March to May) with clear skies and pleasant temperatures."
+      },
+      {
+        "question": "What is included in the price?",
+        "answer": "The price includes the mountain bike, helmet, guide, support vehicle, meals, and accommodation as per the itinerary."
+      },
+      {
+        "question": "Do I need to bring my own biking gear?",
+        "answer": "Bikes and helmets are provided. You should bring your own cycling clothes, gloves, and sunglasses for comfort."
+      },
+      {
+        "question": "Do I need travel insurance?",
+        "answer": "Yes, travel insurance covering adventure activities and emergency evacuation is strongly recommended."
+      },
+      {
+        "question": "How do we handle altitude on longer rides?",
+        "answer": "We include acclimatization days and our guides monitor everyone closely. The itinerary is designed for a safe gradual ascent."
+      },
+      {
+        "question": "What type of accommodation is provided?",
+        "answer": "Comfortable lodges and tea houses along the route, with twin-sharing rooms and locally-sourced meals."
+      },
+      {
+        "question": "How should I prepare physically?",
+        "answer": "We recommend regular cycling, cardio, and leg strengthening exercises for at least 2-3 months before the trip."
+      },
+      {
+        "question": "What happens in case of bike breakdown?",
+        "answer": "Our support vehicle carries spare parts and a mechanic. We can also swap bikes if needed to keep the trip running smoothly."
+      }
+    ]
+  },
+  {
+    "id": "bike-2",
+    "title": "Annapurna Circuit Mountain Biking",
+    "slug": "annapurna-circuit-mountain-biking",
+    "region": "Annapurna",
+    "durationDays": 12,
+    "priceUsd": 1450,
+    "image": "/storage/media/images/hero-home.jpg",
+    "shortDescription": "Ride one of the world's classic mountain bike routes through the Annapurna Circuit.",
+    "fullDescription": "Ride one of the world's classic mountain bike routes. The Annapurna Circuit combines challenging high-altitude passes, dramatic descents, subtropical valleys, and traditional mountain villages with stunning views of Annapurna and Dhaulagiri ranges.",
+    "highlights": [
+      "Cross Thorong La Pass (5,416 m) on two wheels",
+      "Epic downhill sections from Muktinath to Tatopani",
+      "Diverse landscapes from jungle to alpine desert",
+      "Visit sacred Muktinath Temple",
+      "Support vehicle and guide throughout"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kathmandu to Besisahar",
+        "description": "Drive from Kathmandu to Besisahar, the starting point of the Annapurna Circuit.",
+        "activities": [
+          "Scenic drive",
+          "Bike preparation"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "760 m"
+      },
+      {
+        "day": 2,
+        "title": "Besisahar to Bahundanda",
+        "description": "Begin biking through terraced hills and villages.",
+        "activities": [
+          "Start biking",
+          "Waterfall views"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "1,310 m"
+      },
+      {
+        "day": 3,
+        "title": "Bahundanda to Chamje",
+        "description": "Ride through Marsyangdi Valley gorges.",
+        "activities": [
+          "Gorge riding",
+          "Suspension bridges"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "1,430 m"
+      },
+      {
+        "day": 4,
+        "title": "Chamje to Bagarchhap",
+        "description": "Climb through forests to Bagarchhap.",
+        "activities": [
+          "Forest ride",
+          "Manang district entry"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "2,160 m"
+      },
+      {
+        "day": 5,
+        "title": "Bagarchhap to Chame",
+        "description": "Ride to the district headquarters of Manang.",
+        "activities": [
+          "Apple orchards",
+          "Mountain views"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "2,670 m"
+      },
+      {
+        "day": 6,
+        "title": "Chame to Pisang",
+        "description": "Scenic ride with Annapurna II views.",
+        "activities": [
+          "Annapurna II views",
+          "Pisang village"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "3,200 m"
+      },
+      {
+        "day": 7,
+        "title": "Pisang to Manang",
+        "description": "Tackle the upper Pisang route for spectacular views.",
+        "activities": [
+          "Upper Pisang route",
+          "Manang arrival"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "3,540 m"
+      },
+      {
+        "day": 8,
+        "title": "Acclimatization in Manang",
+        "description": "Rest day with optional hike to Ice Lake or Gangapurna viewpoint.",
+        "activities": [
+          "Acclimatization hike",
+          "Explore Manang"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "4,000 m"
+      },
+      {
+        "day": 9,
+        "title": "Manang to Thorong Phedi",
+        "description": "Ride to the base of Thorong La Pass.",
+        "activities": [
+          "Ride to Phedi",
+          "Final pass preparation"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "4,450 m"
+      },
+      {
+        "day": 10,
+        "title": "Cross Thorong La to Muktinath",
+        "description": "Early morning push to Thorong La, then long descent to Muktinath.",
+        "activities": [
+          "Cross Thorong La",
+          "Descend to Muktinath"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "5,416 m"
+      },
+      {
+        "day": 11,
+        "title": "Muktinath to Tatopani",
+        "description": "Epic downhill ride through Jomsom and Marpha.",
+        "activities": [
+          "Muktinath visit",
+          "Downhill to Tatopani"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "1,190 m"
+      },
+      {
+        "day": 12,
+        "title": "Tatopani to Pokhara",
+        "description": "Final ride to Beni and drive to Pokhara.",
+        "activities": [
+          "Ride to Beni",
+          "Drive to Pokhara"
+        ],
+        "accommodation": "Hotel in Pokhara"
+      }
+    ],
+    "inclusions": [
+      "Kathmandu-Besisahar and Beni-Pokhara transport",
+      "Mountain bike and helmet",
+      "Experienced cycling guide and mechanic",
+      "All accommodation and meals during the ride",
+      "Annapurna Conservation Area permit",
+      "Support vehicle for luggage and emergencies"
+    ],
+    "exclusions": [
+      "International flights",
+      "Travel insurance",
+      "Personal biking gear",
+      "Pokhara-Kathmandu transport",
+      "Tips and personal expenses"
+    ],
+    "maxAltitude": "5,416 m",
+    "bestSeason": "March-May, September-November",
+    "groupSize": "4-12 persons",
+    "routeInfo": {
+      "origin": "Besisahar",
+      "destination": "Pokhara",
+      "totalDistance": "Approx. 220 km",
+      "totalFlightTime": "N/A"
+    },
+    "departureInfo": {
+      "frequency": "Bi-weekly",
+      "availableDays": [
+        "Saturday",
+        "Wednesday"
+      ],
+      "departureTime": "6:00 AM",
+      "meetingPoint": "Kathmandu hotel"
+    },
+    "faqs": [
+      {
+        "question": "How difficult is this ride?",
+        "answer": "This is a challenging ride due to high altitude and long days. Good fitness and off-road biking experience are recommended."
+      },
+      {
+        "question": "What happens if I cannot cross Thorong La?",
+        "answer": "Our support vehicle and guide will assist with alternative arrangements for your safety."
+      },
+      {
+        "question": "What is the best season for this ride?",
+        "answer": "The best seasons are autumn (September to November) and spring (March to May) with clear skies and pleasant temperatures."
+      },
+      {
+        "question": "What is included in the price?",
+        "answer": "The price includes the mountain bike, helmet, guide, support vehicle, meals, and accommodation as per the itinerary."
+      },
+      {
+        "question": "Do I need to bring my own biking gear?",
+        "answer": "Bikes and helmets are provided. You should bring your own cycling clothes, gloves, and sunglasses for comfort."
+      },
+      {
+        "question": "Do I need travel insurance?",
+        "answer": "Yes, travel insurance covering adventure activities and emergency evacuation is strongly recommended."
+      },
+      {
+        "question": "How do we handle altitude on longer rides?",
+        "answer": "We include acclimatization days and our guides monitor everyone closely. The itinerary is designed for a safe gradual ascent."
+      },
+      {
+        "question": "What type of accommodation is provided?",
+        "answer": "Comfortable lodges and tea houses along the route, with twin-sharing rooms and locally-sourced meals."
+      },
+      {
+        "question": "How should I prepare physically?",
+        "answer": "We recommend regular cycling, cardio, and leg strengthening exercises for at least 2-3 months before the trip."
+      },
+      {
+        "question": "What happens in case of bike breakdown?",
+        "answer": "Our support vehicle carries spare parts and a mechanic. We can also swap bikes if needed to keep the trip running smoothly."
+      }
+    ]
+  },
+  {
+    "id": "bike-3",
+    "title": "Mustang Mountain Biking Adventure",
+    "slug": "mustang-mountain-biking-adventure",
+    "region": "Mustang",
+    "durationDays": 10,
+    "priceUsd": 1650,
+    "image": "/storage/media/images/hero-home.jpg",
+    "shortDescription": "Ride through the mystical Upper Mustang region and the walled city of Lo Manthang.",
+    "fullDescription": "Explore the mystical Upper Mustang region on two wheels. This adventure takes you through the rain shadow of the Himalayas, ancient Tibetan-influenced villages, dramatic canyons, and the walled city of Lo Manthang.",
+    "highlights": [
+      "Ride through the forbidden kingdom of Mustang",
+      "Explore the ancient walled city of Lo Manthang",
+      "Dramatic desert landscapes and deep gorges",
+      "Visit centuries-old monasteries and caves",
+      "Support vehicle and experienced guides"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kathmandu to Pokhara",
+        "description": "Drive or fly from Kathmandu to Pokhara.",
+        "activities": [
+          "Travel to Pokhara",
+          "Bike check"
+        ],
+        "accommodation": "Hotel in Pokhara"
+      },
+      {
+        "day": 2,
+        "title": "Pokhara to Jomsom",
+        "description": "Take a morning flight to Jomsom and start biking to Kagbeni.",
+        "activities": [
+          "Flight to Jomsom",
+          "Ride to Kagbeni"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "2,800 m"
+      },
+      {
+        "day": 3,
+        "title": "Kagbeni to Chele",
+        "description": "Enter Upper Mustang and ride along the Kali Gandaki river.",
+        "activities": [
+          "Upper Mustang entry",
+          "River valley ride"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "3,050 m"
+      },
+      {
+        "day": 4,
+        "title": "Chele to Syangboche",
+        "description": "Climb through rocky terrain and cross several passes.",
+        "activities": [
+          "Pass crossings",
+          "Tibetan villages"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "3,800 m"
+      },
+      {
+        "day": 5,
+        "title": "Syangboche to Ghami",
+        "description": "Ride past ancient chortens and the longest mani wall in Mustang.",
+        "activities": [
+          "Visit Ghami",
+          "Mani wall"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "3,520 m"
+      },
+      {
+        "day": 6,
+        "title": "Ghami to Tsarang",
+        "description": "Cross Tsarang La and explore Tsarang village and monastery.",
+        "activities": [
+          "Tsarang La",
+          "Monastery visit"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "3,560 m"
+      },
+      {
+        "day": 7,
+        "title": "Tsarang to Lo Manthang",
+        "description": "Ride to the walled capital of Upper Mustang.",
+        "activities": [
+          "Reach Lo Manthang",
+          "Explore walled city"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "3,840 m"
+      },
+      {
+        "day": 8,
+        "title": "Explore Lo Manthang",
+        "description": "Rest day to visit monasteries, caves, and the royal palace.",
+        "activities": [
+          "City exploration",
+          "Chosar caves"
+        ],
+        "accommodation": "Lodge"
+      },
+      {
+        "day": 9,
+        "title": "Lo Manthang to Jomsom",
+        "description": "Return ride via a different route to Jomsom.",
+        "activities": [
+          "Return ride",
+          "Muktinath optional visit"
+        ],
+        "accommodation": "Lodge",
+        "sleepingAltitude": "2,700 m"
+      },
+      {
+        "day": 10,
+        "title": "Jomsom to Pokhara",
+        "description": "Morning flight to Pokhara. Trip concludes.",
+        "activities": [
+          "Flight to Pokhara"
+        ],
+        "accommodation": "N/A"
+      }
+    ],
+    "inclusions": [
+      "Kathmandu-Pokhara transport",
+      "Pokhara-Jomsom-Pokhara flights",
+      "Mountain bike and helmet",
+      "Experienced guide and support vehicle",
+      "All accommodation and meals during the ride",
+      "Upper Mustang special permit and ACAP permit"
+    ],
+    "exclusions": [
+      "International flights",
+      "Travel insurance",
+      "Personal biking gear",
+      "Pokhara-Kathmandu return transport",
+      "Tips and personal expenses"
+    ],
+    "maxAltitude": "4,000 m",
+    "bestSeason": "March-May, September-November",
+    "groupSize": "4-10 persons",
+    "routeInfo": {
+      "origin": "Jomsom",
+      "destination": "Lo Manthang",
+      "totalDistance": "Approx. 160 km",
+      "totalFlightTime": "20 min each way"
+    },
+    "departureInfo": {
+      "frequency": "Weekly",
+      "availableDays": [
+        "Sunday"
+      ],
+      "departureTime": "Morning",
+      "meetingPoint": "Pokhara hotel"
+    },
+    "faqs": [
+      {
+        "question": "Do I need a special permit for Mustang?",
+        "answer": "Yes, Upper Mustang requires a special restricted area permit, which we arrange for you."
+      },
+      {
+        "question": "Is this ride mostly off-road?",
+        "answer": "Yes, Mustang trails are mostly off-road with rocky and sandy sections. Prior mountain biking experience is recommended."
+      },
+      {
+        "question": "What is the best season for this ride?",
+        "answer": "The best seasons are autumn (September to November) and spring (March to May) with clear skies and pleasant temperatures."
+      },
+      {
+        "question": "What is included in the price?",
+        "answer": "The price includes the mountain bike, helmet, guide, support vehicle, meals, and accommodation as per the itinerary."
+      },
+      {
+        "question": "Do I need to bring my own biking gear?",
+        "answer": "Bikes and helmets are provided. You should bring your own cycling clothes, gloves, and sunglasses for comfort."
+      },
+      {
+        "question": "Do I need travel insurance?",
+        "answer": "Yes, travel insurance covering adventure activities and emergency evacuation is strongly recommended."
+      },
+      {
+        "question": "How do we handle altitude on longer rides?",
+        "answer": "We include acclimatization days and our guides monitor everyone closely. The itinerary is designed for a safe gradual ascent."
+      },
+      {
+        "question": "What type of accommodation is provided?",
+        "answer": "Comfortable lodges and tea houses along the route, with twin-sharing rooms and locally-sourced meals."
+      },
+      {
+        "question": "How should I prepare physically?",
+        "answer": "We recommend regular cycling, cardio, and leg strengthening exercises for at least 2-3 months before the trip."
+      },
+      {
+        "question": "What happens in case of bike breakdown?",
+        "answer": "Our support vehicle carries spare parts and a mechanic. We can also swap bikes if needed to keep the trip running smoothly."
+      }
+    ]
+  }
+]
