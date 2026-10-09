@@ -22,6 +22,7 @@ class BlogPost extends Model
         'title',
         'slug',
         'content',
+        'excerpt',
         'featured_image',
         'category_id',
         'author_id',
@@ -43,6 +44,37 @@ class BlogPost extends Model
         'seo' => 'array',
         'published_at' => 'datetime',
     ];
+
+    /**
+     * Get post excerpt or fallback to meta description or first 150 chars of content.
+     */
+    public function getExcerptAttribute($value): string
+    {
+        if (!empty($value)) {
+            return $value;
+        }
+
+        if (!empty($this->seo['description'])) {
+            return $this->seo['description'];
+        }
+
+        $plain = trim(preg_replace('/\s+/', ' ', strip_tags($this->content ?? '')));
+        return \Illuminate\Support\Str::limit($plain, 150);
+    }
+
+    /**
+     * Get reading time or auto-calculate from word count.
+     */
+    public function getReadingTimeAttribute($value): int
+    {
+        if (!empty($value) && (int)$value > 0) {
+            return (int)$value;
+        }
+
+        $plain = trim(preg_replace('/\s+/', ' ', strip_tags($this->content ?? '')));
+        $wordCount = str_word_count($plain);
+        return (int) max(1, ceil($wordCount / 200));
+    }
 
     /**
      * The post category.
