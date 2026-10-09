@@ -159,16 +159,25 @@ class BlogPostController extends Controller
      */
     private function mapToAttributes(array $data): array
     {
+        $plainContent = trim(preg_replace('/\s+/', ' ', strip_tags($data['content'] ?? '')));
+        $wordCount = str_word_count($plainContent);
+        $calculatedReadingTime = max(1, (int) ceil($wordCount / 200));
+
+        $excerpt = !empty($data['seo']['description'])
+            ? $data['seo']['description']
+            : \Illuminate\Support\Str::limit($plainContent, 150);
+
         return [
             'title' => $data['title'],
             'slug' => $data['slug'],
             'content' => $data['content'],
+            'excerpt' => $excerpt,
             'featured_image' => $data['featuredImage'],
             'category_id' => $data['categoryId'],
             'tags' => $data['tags'] ?? [],
             'status' => $data['status'],
             'seo' => $data['seo'] ?? [],
-            'reading_time' => $data['readingTime'] ?? 0,
+            'reading_time' => !empty($data['readingTime']) ? (int) $data['readingTime'] : $calculatedReadingTime,
         ];
     }
 
